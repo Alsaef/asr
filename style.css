@@ -1,0 +1,17 @@
+body{
+    background-color: #2c2a2a;
+  
+}
+.bg-secoundary-footer{
+    background: linear-gradient(0.25turn, #2c2a2a,rgb(61, 59, 59), #2c2a2a);
+}
+@media screen and (max-width:576px) {
+    .img img{
+        width: 100%;
+    }
+}
+/* @media screen and (min-width:576px) and (max-width:850px) {
+    .img img{
+        width: 100%;
+    }
+} */
